@@ -5,5 +5,5 @@
  * @author juli
  *
  */
-module Tp {
+module Tp2 {
 }
